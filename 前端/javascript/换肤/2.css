@@ -1,5 +1,18 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{background:black;}
-input{width:100px; height:200px; background:red;}
+body {
+    background: black;
+}
+
+input {
+    width: 100px;
+    height: 200px;
+    background: red;
+}
+
+button {
+    width: auto;
+    height: auto;
+    background: bisque
+}
